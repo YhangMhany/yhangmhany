@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm **Yhang Mhany** 👋
 
 <!--
 **YhangMhany/yhangmhany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+and  I'm a Ghanaian blogger, an expert in uncovering scams, and the founder of Earn More Cash Today
+
+Here are the websites I manage;
+- [Earn More Cash Today](https://earnmorecashtoday.com/)
+- [yhangmhany.com](https://yhangmhany.com/)
