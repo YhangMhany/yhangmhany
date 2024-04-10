@@ -1,21 +1,13 @@
-### Hi, I'm **Yhang Mhany** 👋
+---
+cover: .gitbook/assets/YhangMhany_1.jpg
+coverY: 0
+---
 
-<!--
-**YhangMhany/yhangmhany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yhang Mhany 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-and  I'm a Ghanaian blogger, an expert in uncovering scams, and the founder of Earn More Cash Today
+and I'm a Ghanaian blogger, an expert in uncovering scams, and the founder of Earn More Cash Today
 
 Here are the websites I manage;
-- [Earn More Cash Today](https://earnmorecashtoday.com/)
-- [yhangmhany.com](https://yhangmhany.com/)
+
+* [Earn More Cash Today](https://earnmorecashtoday.com/)
+* [yhangmhany.com](https://yhangmhany.com/)
