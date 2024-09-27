@@ -4,5 +4,5 @@
 
 List of websites owned by Yhang Mhany;
 
-* [Earn More Cash Today](https://earnmorecashtoday.com/)
-* [yhangmhany.com](https://yhangmhany.com/)
+* Earn More Cash Today
+* yhangmhany.com
